@@ -5,11 +5,11 @@ import store from "./store";
 
 //import Antd from 'ant-design-vue';
 
-import Button from "ant-design-vue/lib/button";
+import {Button} from "ant-design-vue";
 
 //import "ant-design-vue/dist/antd.less";
 
-import "ant-design-vue/lib/button/style";
+//import "ant-design-vue/lib/button/style";
 
 Vue.config.productionTip = false;
 
